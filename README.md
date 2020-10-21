@@ -7,7 +7,7 @@ My name is Ilya Malykh and I'm Junior QA-Engineer.
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-rest-assured-informational?style=flat&logo=rest-assured&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-REST-informational?style=flat&logo=REST&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
