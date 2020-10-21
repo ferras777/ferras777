@@ -15,7 +15,3 @@ My name is Ilya Malykh and I'm Junior QA-Engineer.
 <a href="https://github.com/ferras777/ferras777">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferras777&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-<a href="https://github.com/ferras777/spotify_api_test_framework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ferras777&repo=spotify_api_test_framework&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
