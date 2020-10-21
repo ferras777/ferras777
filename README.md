@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**ferras777/ferras777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ilya Malykh and I'm Junior QA-Engineer.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-REST-informational?style=flat&logo=REST&logoColor=white&color=2bbc8a)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/ferras777/ferras777">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferras777&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/ferras777/spotify_api_test_framework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ferras777&repo=spotify_api_test_framework&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
