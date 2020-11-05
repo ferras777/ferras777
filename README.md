@@ -1,6 +1,6 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Ilya Malykh and I'm Junior QA-Engineer.
+My name is Ilya Malykh and I'm Junior Automation QA Engineer.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
