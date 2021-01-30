@@ -3,5 +3,5 @@
 My name is Ilya Malykh and I'm Junior Automation QA Engineer.
 
 ## 🔧 Languages & Tools
-* <img src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg" width="30px"> Intelij IDEA
+### <img src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg" width="30px">  Intelij IDEA
 
