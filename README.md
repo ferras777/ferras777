@@ -9,8 +9,8 @@
 
 ### :coffee: Let's Connect 
 <p align="left">
-	<a href="https://github.com/ferras777"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/ilyamalykh/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://vk.com/joshuajames"><img src="https://img.icons8.com/bubbles/50/000000/vk-com.png"/></a>
-	<a href="https://t.me/ferras1"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png"/></a>
+	<a href="https://github.com/ferras777"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" target="_blank"/></a>
+	<a href="https://www.linkedin.com/in/ilyamalykh/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" target="_blank"/></a>
+	<a href="https://vk.com/joshuajames"><img src="https://img.icons8.com/bubbles/50/000000/vk-com.png" target="_blank"/></a>
+	<a href="https://t.me/ferras1"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" target="_blank"/></a>
 </p>
