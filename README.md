@@ -12,3 +12,4 @@
 	<a href="https://www.linkedin.com/in/ilyamalykh/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" target="_blank"/></a>
 	<a href="https://t.me/ilyaMalykh"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" target="_blank"/></a>
 </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferras777&count_private=true?theme=cobalt)
